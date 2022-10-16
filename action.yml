@@ -1,4 +1,4 @@
-name: "Exercises Feedback "
+name: "Feedback"
 description: Runs model to verify whether a exercise is correct or not
 
 runs:
