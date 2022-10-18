@@ -1,1 +1,0 @@
-print('Well done, Mate! Your exercise 1.0 is complete.')
