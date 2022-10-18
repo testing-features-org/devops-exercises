@@ -1,0 +1,1 @@
+print('Well done, {{ cookiecutter.full_name }}.')
