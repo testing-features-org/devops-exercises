@@ -12,7 +12,6 @@ runs:
     - name: "Running Marker"
       shell: bash
       run: |
-        run: |
         cd ${{github.action_path}}
-        python markers/marker1.py 
+        python markers/
         
