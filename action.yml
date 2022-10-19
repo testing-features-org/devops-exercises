@@ -15,5 +15,5 @@ runs:
       shell: bash
       run: |
         cd ${{github.action_path}}
-        python marker1.py 
+        python markers/marker1.py 
         
